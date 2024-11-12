@@ -14,6 +14,10 @@ Este é um **projeto acadêmico** desenvolvido para o curso de **Tecnologia em I
 * Seaborn
 * Jupyter Notebook
 
+### **Dataset:**
+Os dados utilizados neste projeto encontra-se neste artigo, que foi disponibilizado em forma de Notebook.
+https://github.com/kunkaweb/Data_Science/blob/master/Diagn%C3%B3stico_de_Doen%C3%A7as_Cardiovasculares_usando_Machine_Learning.ipynb
+
 ### **Como Rodar o Projeto:**
 
 **1. Clone o repositório:**
