@@ -14,7 +14,7 @@ Este é um **projeto acadêmico** desenvolvido para o curso de **Tecnologia em I
 * Seaborn
 * Jupyter Notebook
 
-* Como Rodar o Projeto:
+### **Como Rodar o Projeto:**
 
 **1. Clone o repositório:**
 `git clone https://github.com/FrancineEstefanela/analise-risco-cardiaco-ml.git`
